@@ -1,4 +1,4 @@
-Sumith Kumar Kotagiri (700759479)
+**Sumith Kumar Kotagiri (700759479)**
 
 
 # 🧠 Machine Learning Demos: GAN and Data Poisoning
