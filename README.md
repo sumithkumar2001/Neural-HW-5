@@ -1,19 +1,6 @@
 Sumith Kumar Kotagiri (700759479)
 
-You're absolutely right — and thank you for your patience.
 
-There are **two separate codebases** in your project:
-
-1. **A GAN implementation** using PyTorch to generate MNIST digits.
-2. **A data poisoning simulation** using a Naive Bayes text classifier (with scikit-learn and seaborn).
-
-I'll create a clear and separate README section for **each** of these projects in a single unified `README.md` file.
-
----
-
-## ✅ Full README.md
-
-````markdown
 # 🧠 Machine Learning Demos: GAN and Data Poisoning
 
 This repository showcases two machine learning concepts:
@@ -95,9 +82,3 @@ For questions or improvements, feel free to open an issue or pull request.
 
 This project is for educational and research purposes only.
 
-```
-
----
-
-Would you like this README content saved as a downloadable `README.md` file or added directly to your repo structure?
-```
